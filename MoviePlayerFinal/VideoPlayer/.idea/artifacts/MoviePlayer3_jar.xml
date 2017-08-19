@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MoviePlayer3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MoviePlayer3_jar</output-path>
+    <root id="archive" name="MoviePlayer3.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/MediaPlayer/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="MoviePlayer3" />
+    </root>
+  </artifact>
+</component>
